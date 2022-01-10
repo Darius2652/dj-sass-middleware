@@ -1,0 +1,21 @@
+{
+  "name": "@darius2652/sass-middleware",
+  "version": "1.0.3",
+  "description": "An express middleware to automatically convert requested SASS files into CSS routes on the fly, with production caching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dian Jonker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node-sass": "^7.0.1"
+  },
+  "repository": "github:darius2652/dj-sass-middleware",
+  "keywords": [
+    "sass",
+    "css",
+    "middleware"
+  ]
+}
