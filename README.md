@@ -72,7 +72,7 @@ In the example file, I have added the following variables to the `variableMap` p
 ```
 Using these variables (as can be seen in the example file `my-file.sass`), this is the output:
 
-![[example.jpg]]
+![Variables Example Image](https://raw.githubusercontent.com/Darius2652/dj-sass-middleware/live/examples/example.jpg)
 
 ### Methods
 

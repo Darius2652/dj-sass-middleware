@@ -1,6 +1,6 @@
 {
   "name": "@darius2652/sass-middleware",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An express middleware to automatically convert requested SASS files into CSS routes on the fly, with production caching",
   "main": "index.js",
   "scripts": {
